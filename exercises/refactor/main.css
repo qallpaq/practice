@@ -1,0 +1,23 @@
+.content, .buttons {
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons {
+    background: azure;
+}
+
+.content {
+    background: aliceblue;
+}
+
+.posts {
+    width: 50%;
+}
+
+.users {
+    width: 50%;
+}

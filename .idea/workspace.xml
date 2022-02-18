@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3d9358-f265-4325-84b7-6f332c09fb9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/jquery/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/jquery/.idea/jquery.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/jquery/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/jquery/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/refactor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/refactor/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/refactor/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,16 @@
       <option name="presentableId" value="Default" />
       <updated>1645193064463</updated>
       <workItem from="1645193068439" duration="134000" />
+      <workItem from="1645193233270" duration="3972000" />
     </task>
+    <task id="LOCAL-00001" summary="add gitignore">
+      <created>1645193264809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645193264809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +79,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="240" key="Vcs.Push.Dialog.v2" timestamp="1645193269122">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1645193269122" />
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1645193441794">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1645193441794" />
   </component>
 </project>
