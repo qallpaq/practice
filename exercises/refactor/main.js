@@ -1,8 +1,8 @@
 // https://jsonplaceholder.typicode.com/
 
-
-// добавить еще один запрос
 document.querySelector('.button-users').onclick = function() {
+    document.querySelector('.users').innerHTML=''
+
     fetch('https://jsonplaceholder.typicode.com/users').then(function(r) {
         return r.json()
     }).then(res => {
@@ -16,6 +16,8 @@ document.querySelector('.button-users').onclick = function() {
 }
 
 document.querySelector('.button-posts').onclick = function() {
+    document.querySelector('.posts').innerHTML=''
+
     fetch('https://jsonplaceholder.typicode.com/posts').then(function(r) {
         return r.json()
     }).then(res => {

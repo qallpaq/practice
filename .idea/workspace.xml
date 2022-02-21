@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef3d9358-f265-4325-84b7-6f332c09fb9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/refactor/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/refactor/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/refactor/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/refactor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/refactor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/refactor/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/refactor/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
       <updated>1645193064463</updated>
       <workItem from="1645193068439" duration="134000" />
       <workItem from="1645193233270" duration="3972000" />
+      <workItem from="1645428195041" duration="1121000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1645193264809</created>
